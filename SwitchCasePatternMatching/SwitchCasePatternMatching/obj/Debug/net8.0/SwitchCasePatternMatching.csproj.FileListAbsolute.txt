@@ -1,0 +1,14 @@
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\bin\Debug\net8.0\SwitchCasePatternMatching.exe
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\bin\Debug\net8.0\SwitchCasePatternMatching.deps.json
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\bin\Debug\net8.0\SwitchCasePatternMatching.runtimeconfig.json
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\bin\Debug\net8.0\SwitchCasePatternMatching.dll
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\bin\Debug\net8.0\SwitchCasePatternMatching.pdb
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.dll
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\refint\SwitchCasePatternMatching.dll
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.pdb
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\SwitchCasePatternMatching.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\SwitchCasePatternMatching\SwitchCasePatternMatching\obj\Debug\net8.0\ref\SwitchCasePatternMatching.dll

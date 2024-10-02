@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCasePatternMatching", "SwitchCasePatternMatching\SwitchCasePatternMatching.csproj", "{FBE8D467-F426-4B9A-A6DA-601EAFA1DCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE8D467-F426-4B9A-A6DA-601EAFA1DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE8D467-F426-4B9A-A6DA-601EAFA1DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE8D467-F426-4B9A-A6DA-601EAFA1DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE8D467-F426-4B9A-A6DA-601EAFA1DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB58EC5-13ED-4BEB-A584-125C131DBDD6}
+	EndGlobalSection
+EndGlobal
