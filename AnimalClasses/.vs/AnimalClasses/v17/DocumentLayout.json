@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\AnimalClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162EED8E-09F0-4E59-B690-430A7F16FE4E}|AnimalClasses\\AnimalClasses.csproj|c:\\users\\my computer\\source\\repos\\animalclasses\\animalclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162EED8E-09F0-4E59-B690-430A7F16FE4E}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EED8E-09F0-4E59-B690-430A7F16FE4E}|AnimalClasses\\AnimalClasses.csproj|c:\\users\\my computer\\source\\repos\\animalclasses\\animalclasses\\animalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162EED8E-09F0-4E59-B690-430A7F16FE4E}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\animalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalClass.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AnimalClasses\\AnimalClasses\\AnimalClass.cs",
+              "RelativeDocumentMoniker": "AnimalClasses\\AnimalClass.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AnimalClasses\\AnimalClasses\\AnimalClass.cs",
+              "RelativeToolTip": "AnimalClasses\\AnimalClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:54:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AnimalClasses\\AnimalClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AnimalClasses\\AnimalClasses\\Program.cs*",
+              "RelativeToolTip": "AnimalClasses\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:53:00.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

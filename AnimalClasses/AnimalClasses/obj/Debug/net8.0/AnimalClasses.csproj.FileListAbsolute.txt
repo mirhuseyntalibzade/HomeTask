@@ -1,0 +1,14 @@
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\bin\Debug\net8.0\AnimalClasses.exe
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\bin\Debug\net8.0\AnimalClasses.deps.json
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\bin\Debug\net8.0\AnimalClasses.runtimeconfig.json
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\bin\Debug\net8.0\AnimalClasses.dll
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\bin\Debug\net8.0\AnimalClasses.pdb
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.dll
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\refint\AnimalClasses.dll
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.pdb
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\AnimalClasses.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\AnimalClasses\AnimalClasses\obj\Debug\net8.0\ref\AnimalClasses.dll
