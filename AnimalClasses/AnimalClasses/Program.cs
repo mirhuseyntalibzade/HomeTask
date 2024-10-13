@@ -25,7 +25,6 @@
                 }
                 else
                 {
-                    Console.WriteLine("Invalid choice. Please enter 'bear', 'dog', or 'bird'.");
                     continue;
                 }
 
