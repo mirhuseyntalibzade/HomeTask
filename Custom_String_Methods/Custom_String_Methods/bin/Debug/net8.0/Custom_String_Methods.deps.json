@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Custom_String_Methods/1.0.0": {
+        "runtime": {
+          "Custom_String_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom_String_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
