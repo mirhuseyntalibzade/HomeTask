@@ -1,0 +1,14 @@
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\bin\Debug\net8.0\Group_Student_Project.exe
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\bin\Debug\net8.0\Group_Student_Project.deps.json
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\bin\Debug\net8.0\Group_Student_Project.runtimeconfig.json
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\bin\Debug\net8.0\Group_Student_Project.dll
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\bin\Debug\net8.0\Group_Student_Project.pdb
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.dll
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\refint\Group_Student_Project.dll
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.pdb
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\Group_Student_Project.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\Group_Student_Project\Group_Student_Project\obj\Debug\net8.0\ref\Group_Student_Project.dll
