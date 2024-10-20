@@ -1,0 +1,14 @@
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\bin\Debug\net8.0\WeaponGame.exe
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\bin\Debug\net8.0\WeaponGame.deps.json
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\bin\Debug\net8.0\WeaponGame.runtimeconfig.json
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\bin\Debug\net8.0\WeaponGame.dll
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\bin\Debug\net8.0\WeaponGame.pdb
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.dll
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\refint\WeaponGame.dll
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.pdb
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\WeaponGame.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\WeaponGame\WeaponGame\obj\Debug\net8.0\ref\WeaponGame.dll
