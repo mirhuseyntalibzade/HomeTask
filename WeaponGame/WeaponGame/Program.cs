@@ -43,7 +43,7 @@
                         rifle.Fire();
                         break;
                     case "3":
-                        Console.WriteLine($"Current ammo: {rifle.CurrentAmmoCapacity}");
+                        Console.WriteLine($"Amount of bullets to refill magazine: {rifle.GetRemainBulletCount()}");
                         break;
                     case "4":
                         Console.WriteLine("Reloading...");

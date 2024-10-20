@@ -73,7 +73,7 @@ namespace WeaponGame
         }
         public int GetRemainBulletCount()
         {
-            return _currentAmmoCapacity;
+            return _maxAmmoCapacity - _currentAmmoCapacity;
         }
         public void Reload()
         {
