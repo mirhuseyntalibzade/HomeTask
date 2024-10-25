@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\Indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31514825-1CC1-4AE5-AC5D-5F19C4C47FF0}|Indexer\\Indexer.csproj|c:\\users\\my computer\\source\\repos\\indexer\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31514825-1CC1-4AE5-AC5D-5F19C4C47FF0}|Indexer\\Indexer.csproj|solutionrelative:indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31514825-1CC1-4AE5-AC5D-5F19C4C47FF0}|Indexer\\Indexer.csproj|c:\\users\\my computer\\source\\repos\\indexer\\indexer\\models\\stringmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31514825-1CC1-4AE5-AC5D-5F19C4C47FF0}|Indexer\\Indexer.csproj|solutionrelative:indexer\\models\\stringmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringModels.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Indexer\\Indexer\\Models\\StringModels.cs",
+              "RelativeDocumentMoniker": "Indexer\\Models\\StringModels.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Indexer\\Indexer\\Models\\StringModels.cs",
+              "RelativeToolTip": "Indexer\\Models\\StringModels.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:07:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Indexer\\Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Indexer\\Indexer\\Program.cs",
+              "RelativeToolTip": "Indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:06:38.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
