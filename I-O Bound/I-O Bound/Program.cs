@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static void Main()
+    static async Task Main()
     {
         #region Task
-        List<string> links = new List<string>
+        /*List<string> links = new List<string>
         {
             "https://learn.microsoft.com/en-us/dotnet/csharp/",
             "https://www.w3schools.com/",
@@ -26,7 +26,7 @@ class Program
         stopwatch.Restart();
         RetrieveDataAsync(links);
         stopwatch.Stop();
-        Console.WriteLine($"Async total time: {stopwatch.ElapsedMilliseconds} ms");
+        Console.WriteLine($"Async total time: {stopwatch.ElapsedMilliseconds} ms");*/
         #endregion
 
         #region Task 2
