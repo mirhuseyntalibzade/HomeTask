@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\",
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7DDCCB2-8F0F-4518-BB6E-07B8D63DB3AC}|I-O Bound\\I-O Bound.csproj|c:\\users\\my computer\\source\\repos\\i-o bound\\i-o bound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7DDCCB2-8F0F-4518-BB6E-07B8D63DB3AC}|I-O Bound\\I-O Bound.csproj|c:\\users\\my computer\\desktop\\codeacademy\\hometask-code\\i-o bound\\i-o bound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DDCCB2-8F0F-4518-BB6E-07B8D63DB3AC}|I-O Bound\\I-O Bound.csproj|solutionrelative:i-o bound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DDCCB2-8F0F-4518-BB6E-07B8D63DB3AC}|I-O Bound\\I-O Bound.csproj|c:\\users\\my computer\\desktop\\codeacademy\\hometask-code\\i-o bound\\i-o bound\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DDCCB2-8F0F-4518-BB6E-07B8D63DB3AC}|I-O Bound\\I-O Bound.csproj|solutionrelative:i-o bound\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\Directory.cs",
+              "RelativeDocumentMoniker": "I-O Bound\\Directory.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\Directory.cs*",
+              "RelativeToolTip": "I-O Bound\\Directory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:43:06.119Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\Program.cs",
               "RelativeDocumentMoniker": "I-O Bound\\Program.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\Program.cs",
-              "RelativeToolTip": "I-O Bound\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\Program.cs*",
+              "RelativeToolTip": "I-O Bound\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T22:02:57.704Z",
               "EditorCaption": ""

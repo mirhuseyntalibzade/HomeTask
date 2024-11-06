@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\I-O Bound.csproj": {}
+    "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\I-O Bound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\I-O Bound.csproj": {
+    "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\I-O Bound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\I-O Bound.csproj",
+        "projectUniqueName": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\I-O Bound.csproj",
         "projectName": "I-O Bound",
-        "projectPath": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\I-O Bound.csproj",
+        "projectPath": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\I-O Bound.csproj",
         "packagesPath": "C:\\Users\\My Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\My Computer\\source\\repos\\I-O Bound\\I-O Bound\\obj\\",
+        "outputPath": "C:\\Users\\My Computer\\Desktop\\CodeAcademy\\Hometask-Code\\I-O Bound\\I-O Bound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
