@@ -3,25 +3,9 @@ CREATE TABLE Regions(
   Region_Name varchar(25)
 )
 
-INSERT INTO Regions(region_name) VALUES('california')
-INSERT INTO Countries(country_name) VALUES('USA')
-INSERT INTO Locations(city) VALUES('Los Angeles')
-DELETE FROM Locations WHERE location_id=1
-
-SELECT * FROM Regions
-
-ALTER TABLE Countries ADD Country_Capital varchar(25)
-
-DROP TABLE Regions
-
-TRUNCATE TABLE Countries
-
-UPDATE Regions
-SET region_name='America'
-WHERE region_id = 1
-
 CREATE TABLE Countries(
   Region_Id int,
+  FOREIGN KEY (Region_Id) REFERENCES Regions(Region_Id),
   Country_Id int IDENTITY PRIMARY KEY,
   Country_Name varchar(40),
 )
@@ -32,7 +16,8 @@ CREATE TABLE Locations(
   Postal_Code varchar(12),
   City varchar(30),
   State_Province varchar(12),
-  Country_Id int
+    Country_Id int,
+  FOREIGN KEY (Country_Id) REFERENCES Countries(Country_Id)
 )
 
 CREATE TABLE Departments(
@@ -40,6 +25,7 @@ CREATE TABLE Departments(
   Department_Name varchar(30),
   Manager_Id int,
   Location_Id int
+  FOREIGN KEY (Location_Id) REFERENCES Locations(Location_Id)
 )
 
 CREATE TABLE Employees(
@@ -53,7 +39,8 @@ CREATE TABLE Employees(
   Salary int,
   Commission_PCT int,
   Manager_Id int,
-  Department_Id int
+  Department_Id int,
+  FOREIGN KEY (Department_Id) REFERENCES Departments(Department_Id)
 )
 
 CREATE TABLE Jobs(
@@ -64,11 +51,15 @@ CREATE TABLE Jobs(
 )
 
 CREATE TABLE Job_History(
-  Employee_Id int IDENTITY PRIMARY KEY,
-  Start_Date date PRIMARY KEY,
+  Employee_Id int IDENTITY,
+  Start_Date date,
+  PRIMARY KEY (Employee_Id, Start_Date)
   End_Date date,
-  Job_Id varchar(20)
-  Department_Id int
+  Job_Id int,
+  FOREIGN KEY (Job_Id) REFERENCES Jobs(Job_Id),
+  Department_Id int,
+  FOREIGN KEY (Department_Id) REFERENCES Departments(Department_Id)
+
 )
 
 CREATE TABLE Job_Grades(
