@@ -1,0 +1,15 @@
+﻿@using ASP.Net_Core_MVC.Models;
+@model List<Student>
+
+<h1>Students</h1>
+
+@foreach (Student student in @Model)
+{
+    <ul>
+        <li>Student's first name: @student.FirstName</li>
+        <li>Student's last name: @student.LastName</li>
+        <li>Student's date of birth: @student.DateOfBirth</li>
+        <li>Student's email: @student.Email</li>
+        <li>Student's phone number: @student.PhoneNumber</li>
+    </ul>
+}

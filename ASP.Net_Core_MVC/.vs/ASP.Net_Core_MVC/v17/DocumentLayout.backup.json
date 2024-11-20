@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|c:\\users\\my computer\\source\\repos\\asp.net_core_mvc\\asp.net_core_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|solutionrelative:asp.net_core_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|c:\\users\\my computer\\source\\repos\\asp.net_core_mvc\\asp.net_core_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|solutionrelative:asp.net_core_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|c:\\users\\my computer\\source\\repos\\asp.net_core_mvc\\asp.net_core_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|solutionrelative:asp.net_core_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|c:\\users\\my computer\\source\\repos\\asp.net_core_mvc\\asp.net_core_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|solutionrelative:asp.net_core_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|c:\\users\\my computer\\source\\repos\\asp.net_core_mvc\\asp.net_core_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B7C313-FEF5-47F5-BC52-5465E1C84B88}|ASP.Net_Core_MVC\\ASP.Net_Core_MVC.csproj|solutionrelative:asp.net_core_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_Core_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "ASP.Net_Core_MVC\\Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:57:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_Core_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP.Net_Core_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:50:35.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.Net_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:50:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.Net_Core_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP.Net_Core_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:46:56.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.Net_Core_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ASP.Net_Core_MVC\\ASP.Net_Core_MVC\\Program.cs",
+              "RelativeToolTip": "ASP.Net_Core_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:25:16.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

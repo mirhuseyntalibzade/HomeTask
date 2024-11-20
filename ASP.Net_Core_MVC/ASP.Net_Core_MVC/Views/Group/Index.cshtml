@@ -1,0 +1,11 @@
+﻿@using ASP.Net_Core_MVC.Models;
+@model List<Group>
+
+<h1>Groups</h1>
+
+@foreach (Group groups in @Model)
+{
+    <ul>
+        <li>Group name: @groups.ClassName</li>
+    </ul>
+}

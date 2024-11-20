@@ -1,0 +1,14 @@
+﻿@using ASP.Net_Core_MVC.Models;
+@model List<Teacher>
+
+<h1>Teachers</h1>
+
+@foreach (Teacher teacher in @Model)
+{
+    <ul>
+        <li>Teacher's first name: @teacher.FirstName</li>
+        <li>Teacher's last name: @teacher.LastName</li>
+        <li>Teacher's email: @teacher.Email</li>
+        <li>Teacher's phone number: @teacher.PhoneNumber</li>
+    </ul>
+}

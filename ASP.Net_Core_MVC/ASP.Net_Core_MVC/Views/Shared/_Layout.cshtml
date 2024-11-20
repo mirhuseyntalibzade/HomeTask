@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Movie App</title>
+</head>
+<body>
+    <div>
+    <ul style="display:flex; justify-content:center; list-style:none; gap:20px;">
+        <li>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        </li>
+        <li>
+            <a asp-area="" asp-controller="Student" asp-action="Index">Students</a>
+        </li>
+        <li>
+            <a asp-area="" asp-controller="Teacher" asp-action="Index">Teachers</a>
+        </li>
+        <li>
+            <a asp-area="" asp-controller="Group" asp-action="Index">Groups</a>
+        </li>
+    </ul>
+</div>
+            @RenderBody()
+</body>
+</html>
