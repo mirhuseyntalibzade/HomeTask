@@ -8,5 +8,6 @@ namespace FrontToBack.DAL
         public AppDBContext(DbContextOptions options) : base(options) {}
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Team> Teams { get; set; }
+        public DbSet<Work> Works { get; set; }
     }
 }

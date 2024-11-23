@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\areas\\admin\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\areas\\admin\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\viewmodels\\about\\aboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\viewmodels\\about\\aboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\areas\\admin\\views\\tables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\areas\\admin\\views\\tables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\areas\\admin\\views\\tables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\areas\\admin\\views\\tables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\areas\\admin\\views\\tables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\areas\\admin\\views\\tables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|c:\\users\\my computer\\source\\repos\\fronttoback\\fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D447F3-1DD9-48DE-809B-695083852FC8}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AboutVM.cs",
-              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\ViewModels\\About\\AboutVM.cs",
-              "RelativeDocumentMoniker": "FrontToBack\\ViewModels\\About\\AboutVM.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\ViewModels\\About\\AboutVM.cs*",
-              "RelativeToolTip": "FrontToBack\\ViewModels\\About\\AboutVM.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T04:06:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T03:28:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Program.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Program.cs",
+              "RelativeToolTip": "FrontToBack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:14:38.643Z",
+              "WhenOpened": "2024-11-23T03:28:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Edit.cshtml*",
+              "RelativeToolTip": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T03:18:54.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBack\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml*",
-              "RelativeToolTip": "FrontToBack\\Views\\About\\Index.cshtml*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T03:09:17.913Z",
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Areas\\Admin\\Controllers\\TablesController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Controllers\\TablesController.cs*",
+              "RelativeToolTip": "FrontToBack\\Areas\\Admin\\Controllers\\TablesController.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:41:57.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Controllers\\AboutController.cs*",
-              "RelativeToolTip": "FrontToBack\\Controllers\\AboutController.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:48:56.532Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T02:39:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Create.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Create.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\FrontToBack\\FrontToBack\\Areas\\Admin\\Views\\Tables\\Create.cshtml",
+              "RelativeToolTip": "FrontToBack\\Areas\\Admin\\Views\\Tables\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T02:39:49.225Z",
               "EditorCaption": ""
             }
           ]
