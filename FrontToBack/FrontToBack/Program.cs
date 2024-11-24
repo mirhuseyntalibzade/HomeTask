@@ -4,7 +4,11 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
+builder.Services.AddDbContext<AppDBContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
+    options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
+});
 
 var app = builder.Build();
 

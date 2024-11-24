@@ -5,14 +5,9 @@
 <div class="container-fluid">
 
     <!-- Page Heading -->
-    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
-    <p class="mb-4">
-        DataTables is a third party plugin that is used to generate the demo table below.
-        For more information about DataTables, please visit the <a target="_blank"
-                                                                   href="https://datatables.net">official DataTables documentation</a>.
-    </p>
+    <h1 class="h3 mb-2 text-gray-800">Works</h1>
     <div class="d-flex justify-content-end mb-2">
-        <a asp-area="Admin" asp-controller="Tables" asp-action="Create">
+        <a asp-area="Admin" asp-controller="Works" asp-action="Create">
             <button class="btn btn-success">Add Work</button>
         </a>
     </div>
@@ -30,6 +25,8 @@
                             <th>Work title</th>
                             <th>Work description</th>
                             <th>Work image</th>
+                            <th>Created at</th>
+                            <th>Updated at</th>
                             <th>Edit</th>
                             <th>Delete</th>
                         </tr>
@@ -41,15 +38,17 @@
                                 <td>@item.Title</td>
                                 <td>@item.Description</td>
                                 <td>@item.ImageURL</td>
+                                <td>@item.CreatedAt</td>
+                                <td>@(item.UpdatedAt == null ? "Awaiting First Update" : item.UpdatedAt)</td>
                                 <td class="text-center">
-                                    <a asp-area="Admin" asp-controller="Tables" asp-action="Edit" asp-route-id="@item.Id">
+                                    <a asp-area="Admin" asp-controller="Works" asp-action="Edit" asp-route-id="@item.Id">
                                         <button class="btn btn-primary">
                                             <i class="fa-solid fa-pen"></i>
                                         </button>
                                     </a>
                                 </td>
                                 <td class="text-center">
-                                    <a asp-area="Admin" asp-controller="Tables" asp-action="Delete" asp-route-id="@item.Id">
+                                    <a asp-area="Admin" asp-controller="Works" asp-action="Delete" asp-route-id="@item.Id">
                                         <button class="btn btn-danger">
                                             <i class="fa-solid fa-trash"></i>
                                         </button>

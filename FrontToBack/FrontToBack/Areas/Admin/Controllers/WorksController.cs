@@ -1,4 +1,4 @@
-﻿using FrontToBack.DAL;
+﻿ using FrontToBack.DAL;
 using FrontToBack.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
@@ -6,10 +6,10 @@ using Microsoft.CodeAnalysis;
 namespace FrontToBack.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class TablesController : Controller
+    public class WorksController : Controller
     {
         readonly AppDBContext _context;
-        public TablesController(AppDBContext context)
+        public WorksController(AppDBContext context)
         {
             _context = context;
         }
@@ -21,6 +21,7 @@ namespace FrontToBack.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
+            ViewBag.Services = _context.Services;
             return View();
         }
 
@@ -31,6 +32,7 @@ namespace FrontToBack.Areas.Admin.Controllers
             {
                 return BadRequest("Something went wrong");
             }
+            work.CreatedAt = DateTime.Now;
             _context.Works.Add(work);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -56,6 +58,7 @@ namespace FrontToBack.Areas.Admin.Controllers
             {
                 return NotFound();
             }
+            ViewBag.Services = _context.Services;
             return View(work);
         }
 
@@ -68,9 +71,9 @@ namespace FrontToBack.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            existingWork.Title = updatedWork.Title;
-            existingWork.Description = updatedWork.Description;
-            existingWork.ImageURL = updatedWork.ImageURL;
+            updatedWork.CreatedAt = existingWork.CreatedAt;
+            updatedWork.UpdatedAt = DateTime.Now;
+            _context.Update(updatedWork);
             _context.SaveChanges();
 
             return RedirectToAction(nameof(Index));

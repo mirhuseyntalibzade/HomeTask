@@ -1,4 +1,9 @@
-﻿<div class="banner-wrapper bg-light">
+﻿@using FrontToBack.ViewModels.Service;
+@using FrontToBack.Models
+@model ServiceVM;
+
+
+<div class="banner-wrapper bg-light">
     <div id="index_banner" class="banner-vertical-center-index container-fluid pt-5">
 
         <!-- Start slider -->
@@ -115,101 +120,21 @@
     <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 projects">
 
         <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="service card-img" src="~/img/services-01.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">UI/UX design</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+        @foreach(Services item in Model.servicesVM)
+        {
+            <div class="col-xl-3 col-md-4 col-sm-6 project ui branding">
+                <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
+                    <img class="service card-img" src="~/img/@item.ImageUrl" alt="Card image">
+                    <div class="service-work-vertical card-img-overlay d-flex align-items-end">
+                        <div class="service-work-content text-left text-light">
+                            <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">@item.Title</span>
+                            <p class="card-text">@item.Description</p>
+                        </div>
                     </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-02.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Social Media</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-03.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Marketing</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-04.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Graphic</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-05.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Digtal Marketing</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-06.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Market Research</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-07.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Business</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/img/services-08.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Branding</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
+                </a>
+            </div>
+        }
+        <!-- End Recent Work -->
 
     </div>
 </section>
